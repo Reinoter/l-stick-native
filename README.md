@@ -1,2 +1,2 @@
-# l-stick-native1
+# l-stick-native
 Nativescript application for the L-Stick
